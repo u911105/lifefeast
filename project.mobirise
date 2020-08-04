@@ -54,11 +54,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "2020生活饗宴",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/%E7%94%9F%E6%B4%BB%E9%A5%97%E5%AE%B4491377-492x378.jpg"
       },
       "components": [
         {
