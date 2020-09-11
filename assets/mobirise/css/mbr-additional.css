@@ -726,55 +726,6 @@ section.lazy-placeholder:after {
 .cid-s6BlsqKGGL .mbr-section-btn {
   color: #073b4c;
 }
-.cid-s6BpOMzEMZ {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-s6BpOMzEMZ .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s6BpOMzEMZ .section-text {
-  padding: 2rem 0;
-}
-.cid-s6BpOMzEMZ .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s6BpOMzEMZ .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-s6BpVpY5vZ {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-s6BpVpY5vZ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-s6BpVpY5vZ p {
-  color: #767676;
-  text-align: left;
-}
-.cid-s6BpVpY5vZ .card-box {
-  padding-top: 2rem;
-}
-.cid-s6BpVpY5vZ .card-wrapper {
-  height: 100%;
-}
-.cid-s6BpVpY5vZ .card-title {
-  text-align: center;
-}
-.cid-s6BpVpY5vZ P {
-  color: #465052;
-}
 .cid-s6BsYJAnyF {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -952,6 +903,55 @@ section.lazy-placeholder:after {
 }
 .cid-s6BmMROSy5 P {
   text-align: left;
+  color: #465052;
+}
+.cid-s6BpOMzEMZ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s6BpOMzEMZ .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s6BpOMzEMZ .section-text {
+  padding: 2rem 0;
+}
+.cid-s6BpOMzEMZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s6BpOMzEMZ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s6BpVpY5vZ {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-s6BpVpY5vZ h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s6BpVpY5vZ p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s6BpVpY5vZ .card-box {
+  padding-top: 2rem;
+}
+.cid-s6BpVpY5vZ .card-wrapper {
+  height: 100%;
+}
+.cid-s6BpVpY5vZ .card-title {
+  text-align: center;
+}
+.cid-s6BpVpY5vZ P {
   color: #465052;
 }
 .cid-s6BN7zYZVj {
